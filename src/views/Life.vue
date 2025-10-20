@@ -30,6 +30,7 @@ export default {
   data() {
     return {
       timeline: [
+        { id: 0, date: '2025-10-20', title: '个人网站上线', desc: '终于完成了自己的个人网站，感觉很开心。' },
         { id: 1, date: '2025-10-10', title: '西湖徒步半日', desc: '秋高气爽，步道上的银杏叶很美。' },
         { id: 2, date: '2025-09-05', title: '尝试新菜谱', desc: '第一次做法式炖牛肉，成功！' }
       ],
